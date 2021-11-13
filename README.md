@@ -1,11 +1,21 @@
 # ITPM_Fall_2021
 
-Assignment Description:
+1. Python Mini Projects
+https://github.com/Python-World/python-mini-projects
+This repo is useful for anyone new to python or for anyone looking to improve their python skills.
 
-Create a free account on the GitHub.com, create a repo with repo name ITPM_Fall_2021, update the readme file to add the description.
+2. RunCat for Windows
+https://github.com/Kyome22/RunCat_for_windows
+This repo is not useful in a technical aspect but it is useful for quickly improving your mood. Having a little cat running in the corner of the screen can bring a smile to your face.
 
-Create a Wiki and website (student sites are free).  If you already have account, create a new repo with this name. 
+3. Devops Exercises
+https://github.com/bregman-arie/devops-exercises
+This repo is useful for anyone looking to learn devops practices.
 
-Submit all 3 links  (Repo, Wiki, website) for this assignment.  Explore the website and submit links of 5 public repos that you think are useful for you. 
+4. Recipes
+https://github.com/TandoorRecipes/recipes
+This repo is useful if you are looking for a way to manage your recipes, plan your meals, create a shopping list, or share recipes with friends.
 
-Add one/two line of info for each why they are useful.
+5. 30 Days of JavaScript
+https://github.com/Asabeneh/30-Days-Of-JavaScript
+This repo is useful for people who want to learn JavaScript in a manageable and scheduled manner.
