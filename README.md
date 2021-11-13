@@ -1,4 +1,4 @@
-# ITPM_Fall_2021
+# Useful Repos
 
 [Python Mini Projects](https://github.com/Python-World/python-mini-projects)
 - This repo is useful for anyone new to python or for anyone looking to improve their python skills.
